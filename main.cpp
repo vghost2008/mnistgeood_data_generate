@@ -22,7 +22,7 @@ inline size_t array_size(const T (&)[N]) noexcept { return N; }
 
 
 int begin_num    = 0;
-int max_instance_num = 5;
+int max_instance_num = 15;
 int img_nr       = 100;
 string save_dir = "./data";
 constexpr auto kImgWidth = 512;
