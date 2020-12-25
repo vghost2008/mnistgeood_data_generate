@@ -25,8 +25,8 @@ int begin_num    = 0;
 int max_instance_num = 5;
 int img_nr       = 100;
 string save_dir = "./data";
-constexpr auto kImgWidth = 300;
-constexpr auto kImgHeight = 300;
+constexpr auto kImgWidth = 512;
+constexpr auto kImgHeight = 512;
 
 enum ADType
 {
